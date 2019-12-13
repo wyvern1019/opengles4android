@@ -8,7 +8,6 @@ android {
 
     //构建版本
     compileSdkVersion rootProject.ext.android.compileSdkVersion
-    buildToolsVersion rootProject.ext.android.buildToolsVersion
     //默认的配置
     defaultConfig {
 
